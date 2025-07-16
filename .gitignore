@@ -52,5 +52,9 @@ pids
 *.seed
 *.pid.lock
 
+# Gemini contexts
+GEMINI.md 
+nyota_user_management_implementation_plan
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
